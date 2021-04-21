@@ -187,3 +187,14 @@ p{
 	.data{
 	transform: translateY(00px);
 }
+	nav{
+		position: sticky;
+	}
+	nav a{
+		font-size: 15px;
+		letter-spacing: 2px;
+	}
+	nav a:hover{
+		font-size: 15px;
+		letter-spacing: 2px;
+	}
